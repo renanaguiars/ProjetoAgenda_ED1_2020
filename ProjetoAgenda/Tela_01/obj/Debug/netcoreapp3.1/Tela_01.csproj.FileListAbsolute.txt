@@ -1,0 +1,13 @@
+C:\Users\Renan Aguiar\source\repos\ProjetoAgenda\Tela_01\bin\Debug\netcoreapp3.1\Tela_01.exe
+C:\Users\Renan Aguiar\source\repos\ProjetoAgenda\Tela_01\bin\Debug\netcoreapp3.1\Tela_01.deps.json
+C:\Users\Renan Aguiar\source\repos\ProjetoAgenda\Tela_01\bin\Debug\netcoreapp3.1\Tela_01.runtimeconfig.json
+C:\Users\Renan Aguiar\source\repos\ProjetoAgenda\Tela_01\bin\Debug\netcoreapp3.1\Tela_01.runtimeconfig.dev.json
+C:\Users\Renan Aguiar\source\repos\ProjetoAgenda\Tela_01\bin\Debug\netcoreapp3.1\Tela_01.dll
+C:\Users\Renan Aguiar\source\repos\ProjetoAgenda\Tela_01\bin\Debug\netcoreapp3.1\Tela_01.pdb
+C:\Users\Renan Aguiar\source\repos\ProjetoAgenda\Tela_01\obj\Debug\netcoreapp3.1\Tela_01.csprojAssemblyReference.cache
+C:\Users\Renan Aguiar\source\repos\ProjetoAgenda\Tela_01\obj\Debug\netcoreapp3.1\Tela_01.AssemblyInfoInputs.cache
+C:\Users\Renan Aguiar\source\repos\ProjetoAgenda\Tela_01\obj\Debug\netcoreapp3.1\Tela_01.AssemblyInfo.cs
+C:\Users\Renan Aguiar\source\repos\ProjetoAgenda\Tela_01\obj\Debug\netcoreapp3.1\Tela_01.csproj.CoreCompileInputs.cache
+C:\Users\Renan Aguiar\source\repos\ProjetoAgenda\Tela_01\obj\Debug\netcoreapp3.1\Tela_01.dll
+C:\Users\Renan Aguiar\source\repos\ProjetoAgenda\Tela_01\obj\Debug\netcoreapp3.1\Tela_01.pdb
+C:\Users\Renan Aguiar\source\repos\ProjetoAgenda\Tela_01\obj\Debug\netcoreapp3.1\Tela_01.genruntimeconfig.cache
